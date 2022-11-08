@@ -1,2 +1,5 @@
 x = 15
-print('Hello World!', x)
+y= 5
+
+print('Hello World!', x, 5)
+
